@@ -23,8 +23,6 @@ def bonus
   #code your solution here:
 epic_tragedy[:montague][:hero][:status] = "dead"
 epic_tragedy[:capulet][:heroine][:status] = "dead"
-
-# I tested this out in VScode and it seems to update the status of hero and heroine just fine. I'm not sure why I'm not able to pass this lab.
   
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
